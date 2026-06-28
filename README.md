@@ -165,6 +165,7 @@ The Power BI dashboard provides an interactive business overview.
 ---
 
 #  Dashboard Preview
+<img width="1600" height="1007" alt="WhatsApp Image 2026-06-28 at 7 55 40 PM" src="https://github.com/user-attachments/assets/0cbc4a57-3a31-4446-904a-39cb4a2f5351" />
 
 
 ```
