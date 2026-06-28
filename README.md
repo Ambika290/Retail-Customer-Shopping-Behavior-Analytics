@@ -166,12 +166,10 @@ The Power BI dashboard provides an interactive business overview.
 
 #  Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
 
 ```
-powerbi/dashboard_screenshot.png
+<img width="1920" height="1020" alt="dashboard_screenshot1" src="https://github.com/user-attachments/assets/9571da03-0682-4bb8-bd75-3971092587bd" />
+
 ```
 
 ---
